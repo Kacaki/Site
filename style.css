@@ -1,0 +1,49 @@
+
+.menu-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.menu-link{
+    padding: 5px 5px;
+    background-color: cadetblue;
+    color: brown;
+    font-size: 26px;
+
+
+
+}
+
+body {
+        background-color: rgb(207, 234, 255);
+
+}
+
+.title {
+            font-size: 40px;
+            color: rgb(99, 99, 99);
+
+
+}
+
+.title2 {
+    font-size: 25px;
+    color: rgb(99, 99, 99);
+}
+
+.title3{
+    ont-size: 15px;
+    color: rgb(19, 19, 19);
+
+
+}
+
+.header {
+    background-color: rgba(26, 25, 25, 0.205);
+    height: 40px;
+
+}
+
+
